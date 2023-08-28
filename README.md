@@ -2,7 +2,7 @@ Welcome Tourist Assistant
 
    Introduction
 
-Welcome Tourist Assistant is a Python script designed to provide a warm and informative welcome to visitors planning to travel to Haiti. The script collects essential information from users, such as their name, the duration of their visit, their home country, and whether they require a translator. Based on this input, it generates a personalized welcome message for tourists.
+Welcome Tourist Assistant is a Python script designed to provide a warm and informative welcome to visitors planning to travel to Haiti. The script collects essential information from users, such as their name, the duration of their visit, their home country, their speaking languages and whether they require a translator. Based on this input, it generates a personalized welcome message for tourists.
 
    Features
 
